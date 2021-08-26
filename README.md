@@ -1,6 +1,6 @@
 # Sled Ring kit
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Complete-Ring-Kit/Updates-August-2021/Photo_7.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Compression-Bit/Updates-August-2021/Ring_Kit)
 
 ## Maslow/M2 CNC Universal Ring Kit Component by MakerMade
 
