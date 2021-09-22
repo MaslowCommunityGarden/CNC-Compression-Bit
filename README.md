@@ -2,7 +2,7 @@
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Compression-Bit/Updates-August-2021/Ring_Kit.jpg)
 
-## Sled Ring Kit
+# Sled Ring Kit
 
 Ring and bearing kit that ensures smooth and accurate cuts on your Maslow CNC.
 
