@@ -1,12 +1,12 @@
-# Sled Ring kit
+# Sled Ring Kit
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Compression-Bit/Updates-August-2021/Ring_Kit.jpg)
 
-## Maslow/M2 CNC Universal Ring Kit Component by MakerMade
+## Sled Ring Kit
 
 Ring and bearing kit that ensures smooth and accurate cuts on your Maslow CNC.
 
-* Includes: 
+Includes:
 * Sled ring
 * 4 ring bearings
 * 3 L-brackets
