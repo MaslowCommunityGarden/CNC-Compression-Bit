@@ -1,1 +1,1 @@
-Head over to [Maker Made](http://www.makermade.com/shop) to order.
+Head over to [MakerMade](http://www.makermade.com/shop) to order.
